@@ -1,2 +1,2 @@
 # Operating-systems-and-environments
-BSUIR Labs
+BSUIR Labs for Operating systems and environments and System Programming
