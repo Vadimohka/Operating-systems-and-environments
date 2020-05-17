@@ -1,0 +1,5 @@
+﻿  SP_LR7.cpp
+C:\Users\Vadim\Desktop\OSiS\Lab7\SP_LR7\SP_LR7.cpp(263,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab7\SP_LR7\SP_LR7.cpp(266,32): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab7\SP_LR7\SP_LR7.cpp(272,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  SP_LR7.vcxproj -> C:\Users\Vadim\Desktop\OSiS\Lab7\x64\Debug\SP_LR7.exe

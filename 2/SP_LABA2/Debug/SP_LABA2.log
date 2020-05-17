@@ -1,0 +1,7 @@
+﻿  SP_LABA2.cpp
+C:\Users\Vadim\Desktop\OSiS\Lab2\SP_LABA2\SP_LABA2.cpp(83,56): warning C4244: =: преобразование "LONGLONG" в "ULONG", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab2\SP_LABA2\SP_LABA2.cpp(86,25): warning C4244: =: преобразование "LONGLONG" в "SIZE_T", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab2\SP_LABA2\SP_LABA2.cpp(101,60): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Vadim\Desktop\OSiS\Lab2\SP_LABA2\SP_LABA2.cpp(118,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vadim\Desktop\OSiS\Lab2\SP_LABA2\SP_LABA2.cpp(47): warning C4715: FindFile: значение возвращается не при всех путях выполнения
+  SP_LABA2.vcxproj -> C:\Users\Vadim\Desktop\OSiS\Lab2\Debug\SP_LABA2.exe

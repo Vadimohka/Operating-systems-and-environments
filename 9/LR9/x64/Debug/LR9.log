@@ -1,0 +1,4 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (LR9.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SP_LR9.cpp
+  LINK : не найден или не выполнена сборка C:\Users\Vadim\Desktop\OSiS\Lab9\x64\Debug\SP_LR9.exe при последней инкрементной компоновке; выполняется полная компоновка
+  LR9.vcxproj -> C:\Users\Vadim\Desktop\OSiS\Lab9\x64\Debug\SP_LR9.exe

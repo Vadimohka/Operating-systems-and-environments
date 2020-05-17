@@ -1,7 +1,6 @@
-//{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ generated include file.
-// Used by lab14.rc
-//
+﻿//{{NO_DEPENDENCIES}}
+// Включаемый файл, созданный в Microsoft Visual C++.
+// Используется lab14.rc
 
 #define IDS_APP_TITLE			103
 
@@ -17,7 +16,7 @@
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
 #endif
-// Next default values for new objects
+// Следующие стандартные значения для новых объектов
 //
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS

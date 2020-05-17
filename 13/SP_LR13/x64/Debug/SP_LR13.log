@@ -1,0 +1,10 @@
+﻿  SP_LR13.cpp
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(154,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(167,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(212,38): warning C4477: "_swprintf": в строке форматирования "%08X" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "HMODULE"
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(212,38): warning C4313: _swprintf: конфликт "%X" в строке формата с аргументом 2 типа "HMODULE"
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(222,22): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(262,30): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(302,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Vadim\Desktop\OSiS\Lab13\SP_LR13\SP_LR13.cpp(303,38): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  SP_LR13.vcxproj -> C:\Users\Vadim\Desktop\OSiS\Lab13\x64\Debug\SP_LR13.exe

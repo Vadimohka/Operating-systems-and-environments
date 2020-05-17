@@ -1,0 +1,2 @@
+C:\Users\Vadim\Desktop\OSiS\lab14\Debug\lab14.exe
+C:\Users\Vadim\Desktop\OSiS\lab14\Debug\lab14.pdb

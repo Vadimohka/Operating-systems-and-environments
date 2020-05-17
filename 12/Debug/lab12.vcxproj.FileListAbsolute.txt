@@ -1,0 +1,2 @@
+C:\Users\Vadim\Desktop\OSiS\lab12\Debug\lab12.exe
+C:\Users\Vadim\Desktop\OSiS\lab12\Debug\lab12.pdb
